@@ -1,13 +1,13 @@
 const games = [
+    { name: "Rocket League", thumbnail: "Thumbnails/rocket league.png" },
     { name: "Valorant", thumbnail: "Thumbnails/valorant.png" },
     { name: "WRC", thumbnail: "Thumbnails/WRC.png" },
     { name: "Elden Ring", thumbnail: "Thumbnails/elden ring.png" },
     { name: "Halo", thumbnail: "Thumbnails/halo.png" },
     { name: "Overwatch", thumbnail: "Thumbnails/overwatch.png" },
     { name: "Chess", thumbnail: "Thumbnails/chess.png" },
-    { name: "Brawlhalla", thumbnail: "Thumbnails/brawlhalla.png" },
+    { name: "COD Zombies", thumbnail: "Thumbnails/bo3.png" },
     { name: "COD MWIII", thumbnail: "Thumbnails/codmwiii.png" },
-    { name: "Rocket League", thumbnail: "Thumbnails/rocket league.png" },
     { name: "Fortnite", thumbnail: "Thumbnails/fortnite.png" },
 
 ];
