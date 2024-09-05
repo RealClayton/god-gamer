@@ -4,7 +4,7 @@ const games = [
     { name: "WRC", thumbnail: "Thumbnails/WRC.png" },
     { name: "Elden Ring", thumbnail: "Thumbnails/elden ring.png" },
     { name: "Halo", thumbnail: "Thumbnails/halo.png" },
-    { name: "Overwatch", thumbnail: "Thumbnails/overwatch.png" },
+    { name: "Typeracer", thumbnail: "Thumbnails/typeracer.png" },
     { name: "Chess", thumbnail: "Thumbnails/chess.png" },
     { name: "COD Zombies", thumbnail: "Thumbnails/bo3.png" },
     { name: "COD MWIII", thumbnail: "Thumbnails/codmwiii.png" },
